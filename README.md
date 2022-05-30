@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sai-Lalith-Sistla 
 
--  As of Jan 2022, I'm a  Professional NodeJs & Python Backend Developer with more than 2 years of experience in developing application backend from scratch to deployment.
+-  As of May 2022, I'm a  Professional NodeJs & Python Backend Developer with more than 2 years 10 months of experience in developing application backend from scratch to deployment.
 
 - 👀 I’m interested in Machine Learning for Data science
 - 🌱 I’m currently pursuing EPGDS from IIIT Bangalore,
@@ -15,7 +15,7 @@ Upcoming Goals for 2022:
 
 To Get Conceptual Understanding of  Machine Learning Models & AI Algorithms
 
-To Work on Atleast 18 Datastes
+To Work on Atleast 10 Datastes
 
 To Get Familiarised On Tensorflow And It's Framework
 
