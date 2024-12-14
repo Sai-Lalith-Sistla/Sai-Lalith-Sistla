@@ -1,32 +1,30 @@
-- 👋 Hi, I’m @Sai-Lalith-Sistla.
+# Sai Lalith Sistla  
 
-- I am currently a Data Scientist by title, with experience spanning Backend Engineering, Data Engineering, and Automation Engineering.
+👋 Hi there! I'm **Sai Lalith Sistla**, a **Data Scientist** with a knack for building data-driven solutions that matter. My expertise spans **Backend Engineering**, **Data Engineering**, and **Automation Engineering**, giving me a 360-degree view of how to turn raw data into actionable insights.  
 
-- 👀 My areas of interest in Data Science include anomaly detection and evaluating the dynamic distribution of data.
-- 🌱 I hold a Master's degree in Data Science from LJMU and am gaining experience in the supply chain division.
-- 💞️ I’m looking to collaborate on model building for popular datasets.
-- 📫 You can reach me at [LinkedIn](https://www.linkedin.com/in/sailalithsistla).
+## About Me  
+- 🎓 I hold a **Master’s degree in Data Science** from **Liverpool John Moores University (LJMU)**.  
+- 🚀 Currently working in the **Supply Chain Division**, focusing on **data analysis**, **process optimization**, and **insights generation**.  
+- 🧠 Passionate about **anomaly detection** and analyzing the **dynamic distribution of data**.  
+- 🤝 Open to collaborations on **model building** and solving real-world problems using **popular datasets**.  
 
-Last updated in June 2024
+## 📂 Current Active Work  
+### Projects  
+1. **[AITAH-gender-bias]([(https://github.com/Sai-Lalith-Sistla/AITAH-gender-bias])**  
+   Influence of gender in being an A$$ H0l3.  
+2. **[PREPROCESSING-TECHNIQUES-FOR-OBFUSCATION-IDENTIFICATION]([https://data-models-ml.herokuapp.com/](https://github.com/Sai-Lalith-Sistla/PREPROCESSING-TECHNIQUES-FOR-OBFUSCATION-IDENTIFICATION))**  
+   Public Repo-Clone of Code submited as part of my thesis at LJMU.  
+
+## ✨ 2025 Goals  
+1. **Develop a Signature Project**  
+   Build a flagship project, showcasing expertise in **data engineering** and **predictive modeling**.  
+2. **Publish Research**  
+   Submit a research paper to a top-tier journal or conference on a topic like **anomaly detection** or **data distribution dynamics**.  
+
+## 📫 Let's Connect!  
+Feel free to reach out:  
+- LinkedIn: [Sai Lalith Sistla](https://www.linkedin.com/in/sailalithsistla)  
+- GitHub: [Sai-Lalith-Sistla](https://github.com/Sai-Lalith-Sistla)  
 
 
--------------------------------------------------
-**Upcoming Goals for 2024:**
-
-1. **Expand Knowledge in Advanced Machine Learning:** Explaore different learning techniques.
-2. **Contribute to Open Source Projects:** Actively participate in data science and machine learning projects on platforms like GitHub.
-3. **Develop a Personal Project:** Create a comprehensive project that showcases skills in data engineering and data science, preferably in the context of supply chain analytics.
-4. **Attend Industry Conferences:** Engage with the community by attending and possibly presenting at major data science conferences.
-5. **Publish a Research Paper:** Aim to publish research findings in a reputable data science journal or conference.
-
----
-
-Feel free to modify the goals or add any specific targets that align with your professional aspirations!
-<!---
-Sai-Lalith-Sistla/Sai-Lalith-Sistla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
-Current Work:
-NLP Based Android UI Automation (https://github.com/akshaykadam100/Android-Automation-ChatBot.git)
-Web Application for Analysing Customer Churn & Patient Heart Stroke Possibility (https://data-models-ml.herokuapp.com/)
---->
+*Last updated: December 2024*
