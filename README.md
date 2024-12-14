@@ -10,9 +10,9 @@
 
 ## 📂 Current Active Work  
 ### Projects  
-1. **[AITAH-gender-bias]([https://github.com/Sai-Lalith-Sistla/AITAH-gender-bias])**  
+1. **[AITAH-gender-bias](https://github.com/Sai-Lalith-Sistla/AITAH-gender-bias)**  
    Influence of gender in being an A$$ H0l3.  
-2. **[PREPROCESSING-TECHNIQUES-FOR-OBFUSCATION-IDENTIFICATION]([https://github.com/Sai-Lalith-Sistla/PREPROCESSING-TECHNIQUES-FOR-OBFUSCATION-IDENTIFICATION])**  
+2. **[PREPROCESSING-TECHNIQUES-FOR-OBFUSCATION-IDENTIFICATION](https://github.com/Sai-Lalith-Sistla/PREPROCESSING-TECHNIQUES-FOR-OBFUSCATION-IDENTIFICATION)**  
    Public Repo-Clone of Code submited as part of my thesis at LJMU.  
 
 ## ✨ 2025 Goals  
