@@ -13,7 +13,13 @@
 1. **[AITAH-gender-bias](https://github.com/Sai-Lalith-Sistla/AITAH-gender-bias)**  
    Influence of gender in being an A$$ H0l3.  
 2. **[PREPROCESSING-TECHNIQUES-FOR-OBFUSCATION-IDENTIFICATION](https://github.com/Sai-Lalith-Sistla/PREPROCESSING-TECHNIQUES-FOR-OBFUSCATION-IDENTIFICATION)**  
-   Public Repo-Clone of Code submited as part of my thesis at LJMU.  
+   Public Repo-Clone of Code submited as part of my thesis at LJMU.
+
+### Knowledge repos
+1. **[RFM & Advanced RFM Techniques](https://github.com/Sai-Lalith-Sistla/Advanced-RFM)
+2. **[Demand Forecasting](https://github.com/Sai-Lalith-Sistla?tab=repositories)
+3. **[Promotions and price predictions](https://github.com/Sai-Lalith-Sistla?tab=repositories)
+
 
 ## ✨ 2025 Goals  
 1. **Develop a Signature Project**  
