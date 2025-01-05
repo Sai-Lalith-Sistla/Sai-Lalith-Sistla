@@ -18,7 +18,7 @@
 ### Knowledge repos
 1. **[RFM & Advanced RFM Techniques](https://github.com/Sai-Lalith-Sistla/Advanced-RFM)**
 2. **[Demand Forecasting](https://github.com/Sai-Lalith-Sistla/Demand-Forecasting)**
-3. **[Promotions and price predictions]([https://github.com/Sai-Lalith-Sistla?tab=repositories](https://github.com/Sai-Lalith-Sistla/Promotion-and-Pricing-strategy))**
+3. **[Promotions and price predictions](https://github.com/Sai-Lalith-Sistla/Promotion-and-Pricing-strategy)**
 
 
 ## ✨ 2025 Goals  
