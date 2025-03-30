@@ -9,7 +9,16 @@
 - 🤝 Open to collaborations on **model building**, **generative AI applications**, and solving real-world problems using **popular datasets**.  
 
 
-## 📂 Current Passive Work  
+## 📂 Repo Highlights
+
+### Knowledge repos I've built over the years
+1. **[From GenAI to AI-Agents](https://github.com/Sai-Lalith-Sistla/AI-Agents-GenAI)**
+2. **[Data Science Notes](https://github.com/Sai-Lalith-Sistla/Data-Science)**
+3. **[RFM & Advanced RFM Techniques](https://github.com/Sai-Lalith-Sistla/Advanced-RFM)**
+4. **[Demand Forecasting](https://github.com/Sai-Lalith-Sistla/Demand-Forecasting)**
+5. **[Promotion and Pricing strategy](https://github.com/Sai-Lalith-Sistla/Promotion-and-Pricing-strategy)**
+
+
 ### Projects  
 1. **[AITAH-gender-bias](https://github.com/Sai-Lalith-Sistla/AITAH-gender-bias)**  
    Influence of gender in being an A$$ H0l3.  
@@ -19,12 +28,7 @@
 3. - **Video Processing Automation**
    WIP Idea : a GPU-accelerated script to detect and categorize video clips from an SMB server.  
 
-### Knowledge repos I've built over the years
-1. **[From GenAI to AI-Agents](https://github.com/Sai-Lalith-Sistla/AI-Agents-GenAI)**
-2. **[Data Science Notes](https://github.com/Sai-Lalith-Sistla/Data-Science)**
-3. **[RFM & Advanced RFM Techniques](https://github.com/Sai-Lalith-Sistla/Advanced-RFM)**
-4. **[Demand Forecasting](https://github.com/Sai-Lalith-Sistla/Demand-Forecasting)**
-5. **[Promotion and Pricing strategy](https://github.com/Sai-Lalith-Sistla/Promotion-and-Pricing-strategy)**
+
 
 
 ## ✨ 2025 Goals  
