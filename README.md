@@ -13,7 +13,7 @@
 
 ### Knowledge repos I've built over the years
 1. **[From GenAI to AI-Agents](https://github.com/Sai-Lalith-Sistla/AI-Agents-GenAI)**
-2. **[Data Science Notes](https://github.com/Sai-Lalith-Sistla/Data-Science)**
+2. **[Data Science Notes & Notebooks](https://github.com/Sai-Lalith-Sistla/Data-Science)**
 3. **[RFM & Advanced RFM Techniques](https://github.com/Sai-Lalith-Sistla/Advanced-RFM)**
 4. **[Demand Forecasting](https://github.com/Sai-Lalith-Sistla/Demand-Forecasting)**
 5. **[Promotion and Pricing strategy](https://github.com/Sai-Lalith-Sistla/Promotion-and-Pricing-strategy)**
