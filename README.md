@@ -56,7 +56,7 @@ Specialisation :- Deeplearning
 ## 📫 Let's Connect!  
 Feel free to reach out:  
 - LinkedIn: [Sai Lalith Sistla](https://www.linkedin.com/in/sailalithsistla)  
-- GitHub: [Sai-Lalith-Sistla](https://github.com/Sai-Lalith-Sistla)  
 
 
-*Last updated: December 2024*
+
+*Last updated: April 2025*
