@@ -29,6 +29,22 @@
    WIP Idea : a GPU-accelerated script to detect and categorize video clips from an SMB server.  
 
 
+### Assignment projects during Masters
+Traditional ML Model building
+1. **[Lead-Score-Prediction | Logistic regression ](https://github.com/Sai-Lalith-Sistla/Lead-Score-Prediction)
+2. **[Bike Sharing | Linear regresion](https://github.com/Sai-Lalith-Sistla/Bike-Demand-Prediction)**
+3. **House Rent | Advanced Regression**
+4. **Telecom churn | Feature selection, PCA, Regression**
+5. **Stock price prediction | Time Series**
+
+Specialisation :- Deeplearning
+
+6. **Telecom churn | Deep Learning**
+7. **Gesture recognition | Deep Learning**
+8. **Style Transfer using GANS**
+
+
+
 
 
 ## ✨ 2025 Goals  
