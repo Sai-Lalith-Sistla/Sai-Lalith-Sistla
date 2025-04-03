@@ -1,6 +1,6 @@
 # Sai Lalith Sistla  
 
-👋 Hi there! I'm **Sai Lalith Sistla**, a **Data Scientist** and **AI Enthusiast** with a passion for crafting **cutting-edge, data-driven solutions** that make a real-world impact. My expertise spans **Backend Engineering**, **Data Engineering**, **Automation Engineering**, and **Generative AI**, giving me a **full-stack AI perspective** on transforming raw data into **intelligent, scalable insights**. I thrive at the intersection of **advanced machine learning**, **AI-powered automation**, and **next-gen data architectures** to unlock the full potential of data.  
+👋 Hi there! I'm Sai Lalith Sistla, a Data Scientist and AI Enthusiast passionate about solving complex problems with machine learning, automation, and AI-driven analytics. My work spans Data Science, Generative AI, and Data Engineering, leveraging a full-stack AI approach to build scalable, real-world solutions.
 
 ## 🚀 About Me  
 - 🎓 I hold a **Master’s degree in Data Science** from **Liverpool John Moores University (LJMU)**.  
@@ -26,7 +26,7 @@
 
 ### Assignment projects during Masters
 Traditional ML Model building
-1. **[Lead-Score-Prediction | Logistic regression ](https://github.com/Sai-Lalith-Sistla/Lead-Score-Prediction)
+1. **[Lead-Score-Prediction | Logistic regression ](https://github.com/Sai-Lalith-Sistla/Lead-Score-Prediction)**
 2. **[Bike Sharing | Linear regresion](https://github.com/Sai-Lalith-Sistla/Bike-Demand-Prediction)**
 3. **House Rent | Advanced Regression**
 4. **Telecom churn | Feature selection, PCA, Regression**
@@ -38,13 +38,13 @@ Specialisation :- Deeplearning
 7. **Gesture recognition | Deep Learning**
 8. **Style Transfer using GANS**
 
-Thesis submited for 
-10. **[PREPROCESSING-TECHNIQUES-FOR-OBFUSCATION-IDENTIFICATION](https://github.com/Sai-Lalith-Sistla/PREPROCESSING-TECHNIQUES-FOR-OBFUSCATION-IDENTIFICATION)**  (WIP : Public Repo-Clone of Code submited as part of my thesis at LJMU.)
+Thesis submited for as part of my thesis at LJMU
+10. **[PREPROCESSING-TECHNIQUES-FOR-OBFUSCATION-IDENTIFICATION](https://github.com/Sai-Lalith-Sistla/PREPROCESSING-TECHNIQUES-FOR-OBFUSCATION-IDENTIFICATION)**  (WIP : Public Repo-Clone of Code used to sypport my thesis.)
 
 ### Misc Projects  
 1. **[AITAH-gender-bias](https://github.com/Sai-Lalith-Sistla/AITAH-gender-bias)**  
-   (WIP) Influence of gender in being an A$$ H0l3.  
-3. - **Video Processing Automation**
+   (WIP) Influence of gender in being an A$$ H0l3.
+2. **Video Processing Automation**
    WIP - Idea phase: a GPU-accelerated script to detect and categorize video clips from an SMB server. helps me sort & delete duplicate clips of video
 
 
