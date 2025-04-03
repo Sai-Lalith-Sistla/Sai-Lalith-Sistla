@@ -11,6 +11,8 @@
 
 ## 📂 Repo Highlights
 
+![Sai Lalith's Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sai-Lalith-Sistla&theme=tokyonight)
+
 ### Knowledge repos I've built over the years
 1. **[From GenAI to AI-Agents](https://github.com/Sai-Lalith-Sistla/AI-Agents-GenAI)**
 2. **[Data Science Notes & Notebooks](https://github.com/Sai-Lalith-Sistla/Data-Science)**
@@ -20,8 +22,6 @@
 5. **[Demand Forecasting](https://github.com/Sai-Lalith-Sistla/Demand-Forecasting)**
 6. **[Promotion and Pricing strategy](https://github.com/Sai-Lalith-Sistla/Promotion-and-Pricing-strategy)**
 
-
- 
 
 
 ### Assignment projects during Masters
@@ -39,6 +39,7 @@ Specialisation :- Deeplearning
 8. **Style Transfer using GANS**
 
 Thesis submited for as part of my thesis at LJMU
+
 10. **[PREPROCESSING-TECHNIQUES-FOR-OBFUSCATION-IDENTIFICATION](https://github.com/Sai-Lalith-Sistla/PREPROCESSING-TECHNIQUES-FOR-OBFUSCATION-IDENTIFICATION)**  (WIP : Public Repo-Clone of Code used to sypport my thesis.)
 
 ### Misc Projects  
@@ -59,6 +60,8 @@ Thesis submited for as part of my thesis at LJMU
 ## 📫 Let's Connect!  
 Feel free to reach out:  
 - LinkedIn: [Sai Lalith Sistla](https://www.linkedin.com/in/sailalithsistla)  
+
+
 
 
 
