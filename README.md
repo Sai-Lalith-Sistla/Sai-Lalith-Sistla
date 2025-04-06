@@ -1,19 +1,24 @@
-# Sai Lalith Sistla  
+# Sai Lalith Sistla
 
-👋 Hi there! I'm Sai Lalith Sistla, a Data Scientist and AI Enthusiast passionate about solving complex problems with machine learning, automation, and AI-driven analytics. My work spans Data Science, Generative AI, and Data Engineering, leveraging a full-stack AI approach to build scalable, real-world solutions.
+👋 Welcome! I'm **Sai Lalith Sistla**, a **Data Scientist and AI Enthusiast** passionate about solving real-world challenges with Machine Learning, Generative AI, and Data Engineering.  
+I specialize in building full-stack AI solutions that deliver practical and scalable business impact.
 
-## 🚀 About Me  
-- 🎓 I hold a **Master’s degree in Data Science** from **Liverpool John Moores University (LJMU)**.  
-- 🚀 Currently working in the **Supply Chain Division**, focusing on **data analysis**, **process optimization**, and **insights generation**.  
-- 🧠 Passionate about **anomaly detection**, **generative AI**, and analyzing the **dynamic distribution of data**.  
-- 🤝 Open to collaborations on **model building**, **generative AI applications**, and solving real-world problems using **popular datasets**.  
+---
 
+## 🚀 Quick Overview
+- 🎓 **Education:** Master’s in Data Science, **Liverpool John Moores University (LJMU)**, UK
+- 💼 **Current Role:** Data Scientist | Supply Chain Division | Focused on Data Analytics, Process Optimization, and AI-driven Insights
+- 🧠 **Interests:** Anomaly Detection | Generative AI | Data Distribution Analysis
+- 🤝 **Open to Collaborations:** Model Building | Generative AI Applications | Public Dataset Challenges
 
-## 📂 Repo Highlights
+---
 
-![Sai Lalith's Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sai-Lalith-Sistla&theme=tokyonight)
+## 📈 GitHub Stats
+![Sai Lalith's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sai-Lalith-Sistla&theme=tokyonight)
 
-### Knowledge Repositories and POCs | A Journey of Building, Learning, and Innovating
+---
+
+### 📚 Knowledge Repositories and POCs | A Journey of Building, Learning, and Innovating
 1. **[From GenAI to AI-Agents](https://github.com/Sai-Lalith-Sistla/AI-Agents-GenAI)**
 2. **[MLOps (Experiment Tracking, Model Validation, Deployment Automation)](https://github.com/Sai-Lalith-Sistla/My-MLOps-expertise)**
 3. **[Data Science Notes & Notebooks](https://github.com/Sai-Lalith-Sistla/Data-Science)**
@@ -50,7 +55,7 @@ Thesis submited for as part of my thesis at LJMU
    WIP - Idea phase: a GPU-accelerated script to detect and categorize video clips from an SMB server. helps me sort & delete duplicate clips of video
 
 
-
+---
 
 ## ✨ 2025 Goals  
 1. **Develop a Signature Project**  
@@ -58,12 +63,7 @@ Thesis submited for as part of my thesis at LJMU
 2. **Publish Research**  
    Submit a research paper to a top-tier journal or conference on a topic like **anomaly detection** or **data distribution dynamics**.  
 
-## 📫 Let's Connect!  
-Feel free to reach out:  
-- LinkedIn: [Sai Lalith Sistla](https://www.linkedin.com/in/sailalithsistla)  
 
 
-
-
-
+---
 *Last updated: April 2025*
