@@ -13,9 +13,10 @@
 
 ![Sai Lalith's Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sai-Lalith-Sistla&theme=tokyonight)
 
-### Knowledge repos I've built over the years
+### Knowledge Repositories and POCs | A Journey of Building, Learning, and Innovating
 1. **[From GenAI to AI-Agents](https://github.com/Sai-Lalith-Sistla/AI-Agents-GenAI)**
-2. **[Data Science Notes & Notebooks](https://github.com/Sai-Lalith-Sistla/Data-Science)**
+2. **[MLOps (Experiment Tracking, Model Validation, Deployment Automation)](https://github.com/Sai-Lalith-Sistla/My-MLOps-expertise)**
+3. **[Data Science Notes & Notebooks](https://github.com/Sai-Lalith-Sistla/Data-Science)**
    - includes POC on Hypothesis testing
    - includes POC on AutoML
 4. **[RFM & Advanced RFM Techniques](https://github.com/Sai-Lalith-Sistla/Advanced-RFM)**
