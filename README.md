@@ -7,7 +7,7 @@ I specialize in building full-stack AI solutions that deliver practical and scal
 
 ## 🚀 Quick Overview
 - 🎓 **Education:** Master’s in Data Science, **Liverpool John Moores University (LJMU)**, UK
-- 💼 **Current Role:** Data Scientist | Supply Chain Division | Focused on Data Analytics, MLOps, Process Optimization, and AI-driven Insights
+- 💼 **Current Role:** Data Scientist | Supply Chain Division | Focused on Data Analytics, ML, Process Optimization, and AI-driven Insights
 - 🧠 **Interests:** Anomaly Detection | Generative AI | Data Distribution Analysis
 - 🤝 **Open to Collaborations:** Model Building | Generative AI Applications | Public Dataset Challenges
 
