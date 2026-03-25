@@ -1,6 +1,6 @@
 # Sai Lalith Sistla
 
-👋 Welcome! I'm **Sai Lalith Sistla**, a **Data Scientist and AI Enthusiast** passionate about solving real-world challenges with Machine Learning, Generative AI, and Data Engineering.  
+👋 Welcome! I'm **Sai Lalith Sistla**, a **Data Scientist and AI/ML Engineer** passionate about solving real-world challenges with Machine Learning, Generative AI, and Data Engineering.  
 I specialize in building full-stack AI solutions that deliver practical and scalable business impact.
 
 ---
